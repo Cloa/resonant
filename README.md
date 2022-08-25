@@ -17,7 +17,7 @@ Keep separate profiles for different jobs.
 ## Installation
 Add as a custom repository:
 ```
-https://raw.githubusercontent.com/aulus-asina/resonant/main/repo/latest.json
+https://raw.githubusercontent.com/cloa/resonant/main/repo/latest.json
 ```
 
 ## Something doesn't seem right...
