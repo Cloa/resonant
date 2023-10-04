@@ -8,7 +8,7 @@
     "TestingAssemblyVersion": "0.0.0.6",
     "RepoUrl": "https://github.com/aulus-asina/resonant",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
+    "DalamudApiLevel": 9,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
